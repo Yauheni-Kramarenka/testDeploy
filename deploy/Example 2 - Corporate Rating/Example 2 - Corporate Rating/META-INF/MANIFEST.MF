@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2024-07-04T18:27:00.010596+02:00
+Created-By: OpenL WebStudio v.5.26.6
+Implementation-Title: Example 2 - Corporate Rating
+Build-Branch: main
+Build-Number: 8902ba473202d2b25bcff95dbf4a722ae695dc52
+Implementation-Version: admin-2024-07-04_18-25-57
+Built-By: admin
+
